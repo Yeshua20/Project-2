@@ -8,11 +8,13 @@
     background-color: #1F2937;
     color:#fff;
 }
-.section-1, .section-1 i{
+.section-1, .section-1 i,a{
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px;
+    color:darkgrey;
+    text-decoration: none;
 }
 .section-2 ul{
     display:flex;
@@ -25,11 +27,21 @@
    text-transform: capitalize;
    list-style: none;
    padding: 10px;
-   color:#fff;
+   color:darkgray;
 }
 
 .copy-right{
     display: flex;
     justify-content: center;
+    color:darkgrey;
 }
+
+.section-1 i:hover{
+     color:green;
+}
+
+.section-2 a:hover{
+    color:#fff;
+}
+
 
