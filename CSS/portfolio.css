@@ -74,16 +74,20 @@ span{
   transform: scale(1.5);
 }
 
+/* 45%
+80% */
+
 .images{
-    width:45%;
-    height: 80%;
+    width:400px; 
+    height: 500px;
     position: absolute;
     bottom: 0;
     right:100px ;
 }
 
+/* 100px */
 .images img{
-   height:100px;
+height:500px;
 position: absolute;
 left: 50%;
 bottom: 0;
