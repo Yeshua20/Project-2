@@ -107,7 +107,7 @@ body{
 
 .lists a:hover{
     color:#fff;
-    text-decoration: underline;
+    
 }
 
 
@@ -198,8 +198,9 @@ body{
 
 
 .service-items:hover{
-    background-color: grey;
+    background-color: #1F2937;
     transform: scale(1.5);
+    color: darkgray;
 }
 
 
