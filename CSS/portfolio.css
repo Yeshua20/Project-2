@@ -78,8 +78,8 @@ span{
 80% */
 
 .images{
-    width:400px; 
-    height: 500px;
+    width:45%; 
+    height: 80%;
     position: absolute;
     bottom: 0;
     right:100px ;
@@ -87,7 +87,7 @@ span{
 
 /* 100px */
 .images img{
-height:500px;
+height:100px;
 position: absolute;
 left: 50%;
 bottom: 0;
